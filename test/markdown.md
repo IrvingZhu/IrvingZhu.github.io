@@ -2,9 +2,9 @@
 sort: 1
 ---
 
-# Markdown Elements
+# 个人履历
 
-Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
 
 There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
 
@@ -121,17 +121,17 @@ If a table is too wide, it should condense down and/or scroll horizontally.
 
 <!-- prettier-ignore-start -->
 
-| Artist            | Album           | Year | Label       | Awards   | Songs     |
+<!-- | Artist            | Album           | Year | Label       | Awards   | Songs     |
 |-------------------|-----------------|------|-------------|----------|-----------|
 | Michael Jackson   | Thriller        | 1982 | Epic Records | Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical | Wanna Be Startin' Somethin', Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life |
 | Prince            | Purple Rain     | 1984 | Warner Brothers Records | Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal | Let's Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I'm a Star, Purple Rain |
-| Beastie Boys      | License to Ill  | 1986 | Mercury Records | noawardsbutthistablecelliswide | Rhymin & Stealin, The New Style, She's Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill |
+| Beastie Boys      | License to Ill  | 1986 | Mercury Records | noawardsbutthistablecelliswide | Rhymin & Stealin, The New Style, She's Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill | -->
 
 <!-- prettier-ignore-end -->
 
----
+<!-- --- -->
 
-Code snippets like `var foo = "bar";` can be shown inline.
+<!-- Code snippets like `var foo = "bar";` can be shown inline.
 
 Also, `this should vertically align` ~~`with this`~~ ~~and this~~.
 
@@ -163,16 +163,28 @@ Inline code inside table cells should still be distinguishable.
 | Javascript | `var foo = "bar";` |
 | Ruby       | `foo = "bar"`      |
 
----
+--- -->
 
-Small images should be shown at their actual size.
+<!-- Small images should be shown at their actual size.
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-Large images should always scale down and fit in the content container.
+Large images should always scale down and fit in the content container. -->
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<!-- ![Branching](https://guides.github.com/activities/hello-world/branching.png) -->
 
-```
+<!-- ```
 This is the final element on the page and there should be no margin below this.
-```
+``` -->
+
+# 2017-2020年：北京服装学院应用化学专业进修。
+
+2018年：开始自学C++语言、Java语言，暑期并在中链公司进行后端实习。
+
+2018年：自学数据结构，并开始刷leetcode。
+
+2019年：自学操作系统、计算机网络、计算机组成原理、数据库系统概论、汇编语言、软件工程、算法、机器学习等课程。
+
+2019年：
+    >项目一：实现图像的快速风格迁移，利用卷积神经网络进行训练模型，然后进行测试。
+    >项目二：C++后台开发，负责并发设计、数据库设计与数据传递设计。服务器能实现轻量级并发、并为前端app聊天功能提供后端服务。
